@@ -27,5 +27,11 @@ public class Demo_5_test {
 	{
 		System.out.println("--test13--");
 	}
+	
+	@Test
+	public void test14()
+	{
+		System.out.println("--test14--");
+	}
 
 }
